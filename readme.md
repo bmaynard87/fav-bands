@@ -1,5 +1,5 @@
 # My Favorite Bands
-A simple SPA to demostrate Laravel and Angular proficiency. Also includes a few other technologies, such as Bootstrap, SASS, Gulp, and Node.
+A simple SPA to demonstrate Laravel and Angular proficiency. Also includes a few other technologies, such as Bootstrap, SASS, Gulp, and Node.
 
 ## Setup
 1. `git clone https://github.com/bmmaynard87/favbands.git`
