@@ -2,7 +2,7 @@
 A simple SPA to demonstrate Laravel and Angular proficiency. Also includes a few other technologies, such as Bootstrap, SASS, Gulp, and Node.
 
 ## Setup
-1. `git clone https://github.com/bmmaynard87/favbands.git && cd favbands`
+1. `git clone https://github.com/bmaynard87/fav-bands.git && cd favbands`
 2. `composer install`
 3. `php artisan key:generate`
 4. Windows: `vendor/bin/homestead make` Mac: `php vendor/bin/homestead make`
